@@ -1,6 +1,6 @@
 # Coding Challenge
 
-Test Client API Implementation for a coding challenge.
+Test Client API Implementation for a coding challenge done using Node.
 
 To run from base directory:
 ```
